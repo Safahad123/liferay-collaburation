@@ -1,1 +1,1 @@
-# liferay-collaburation
+# liferay-collaboration
